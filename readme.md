@@ -69,3 +69,4 @@ this is fine for development, or use by a single team, most developers will want
 to customize the code to use a real database system.
 
 There are [Botkit plugins for all the major database systems](https://github.com/howdyai/botkit/blob/master/readme-middlewares.md#storage-modules) which can be enabled with just a few lines of code.
+
